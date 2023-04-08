@@ -10,6 +10,6 @@ I have always been passionate about the world of technology and creating new pro
 
 <h3 align="left">Connect with me:</h3>
 <div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" /></a>
-  <a href="https://drive.google.com/file/d/1ZqVYXorAfQ-eR8XAJH-3Z8MVti3eJL37/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80" /></a>
+  <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" style="display: block;" /></a>
+  <a href="https://drive.google.com/file/d/1ZqVYXorAfQ-eR8XAJH-3Z8MVti3eJL37/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80" style="display: block;" /></a>
 </div>
