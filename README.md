@@ -13,3 +13,12 @@ I have always been passionate about the world of technology and creating new pro
   <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" style="display: block;" /></a>
   <a href="https://drive.google.com/file/d/1ZqVYXorAfQ-eR8XAJH-3Z8MVti3eJL37/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80" style="display: block;" /></a>
 </div>
+
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" /></a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ZqVYXorAfQ-eR8XAJH-3Z8MVti3eJL37/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80"  /></a>
+</p>
