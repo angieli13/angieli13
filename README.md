@@ -3,8 +3,8 @@
     <img src="./images/header.gif"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Angie</h1>
-<h3 align="center">A passionate frontend developer from Colombia image.png</h3>
+<h1 align="center">Hi <img src="./images/saludar.gif" height="20" width="25" />, I'm Angie</h1>
+<h3 align="center">A passionate frontend developer from Colombia <img src="./images/Colombia.gif" height="20" width="25" /></h3>
 
 I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning. 
 
