@@ -1,4 +1,3 @@
-
 <div align="center">
     <img src="./images/header.gif"/>
 </div>
@@ -6,12 +5,12 @@
 <h1 align="center">Hi <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" height="40" width="40" />, I'm Angie</h1>
 <h3 align="center">A passionate frontend developer from Colombia <img src="./images/Colombia.gif" height="20" width="25" /></h3>
 
-I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning. 
+I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" /></a>
-  <a href="https://drive.google.com/file/d/1QOv96cB9fLsLa5-6OREfHMd36iIeNFvZ/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80"  /></a>
+  <a href="https://drive.google.com/file/d/1b_hthJH_G9HIXvlY05lCZOoGlsj9VxB4/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80"  /></a>
 </p>
 
 - 📚👀 I’m currently learning **React and SQL**.
@@ -19,8 +18,6 @@ I have always been passionate about the world of technology and creating new pro
 - 🗽💭 I continue to strengthen my **English level**.
 
 - 🫱🏼‍🫲🏼📈 I like to work on team projects.
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
