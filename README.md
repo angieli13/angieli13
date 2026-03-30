@@ -10,7 +10,7 @@ I have always been passionate about the world of technology and creating new pro
 <h3 align="left">Connect with me:</h3>
 <p align="center">
    <a href="https://www.linkedin.com/in/angie-combita/" target="blank"><img src="./images/In.gif" height="80" width="80" /></a>
-  <a href="https://drive.google.com/file/d/1b_hthJH_G9HIXvlY05lCZOoGlsj9VxB4/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80"  /></a>
+  <a href="https://drive.google.com/file/d/1hWKmlwqxiqVBkrMOg7BPh-csvo49pan9/view?usp=sharing" target="blank"><img src="./images/cv.gif" height="80" width="80"  /></a>
 </p>
 
 - 📚👀 I’m currently learning **React and SQL**.
